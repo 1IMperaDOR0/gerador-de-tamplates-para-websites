@@ -1,2 +1,2 @@
-# Gerador-de-Tamplates-para-WebSites
+# gerador-de-tamplates-para-websites
 Fiz esse projeto dedicado, não apenas para me auxiliar, mas também, ajudar outras pessoas que assim como eu querem entrar na área. O objetivo desse projeto é fornecer tamplates básicos de sites, agilizando o processo de criação, e respostas a duvidas relacionadas a programação. Acredito que futuramente, ele poderá fornecer cada vez mais tamplates de forma profissional com opção de colocar imagens e afins.
